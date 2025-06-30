@@ -42,7 +42,8 @@ This project addresses a real frustration:
 
 | Input Form | Output Prediction |
 |------------|-------------------|
-| ![Input](screenshots/input.png) | ![Output](screenshots/output.png) |
+| ![Input](screenshots/input1.png) | ![Output](screenshots/output1.png) |
+| ![Input](screenshots/input2.png) | ![Output](screenshots/output2.png) |
 
 ---
 
