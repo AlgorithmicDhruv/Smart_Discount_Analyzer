@@ -45,11 +45,3 @@ This project addresses a real frustration:
 | ![Input](screenshots/input2.png) | ![Output](screenshots/output2.png) |
 
 ---
-
-## 🚀 How to Run the App Locally
-
-### 1. Clone this repo
-
-```bash
-git clone https://github.com/your-username/Smart_Discount_Analyzer.git
-cd Smart_Discount_Analyzer
