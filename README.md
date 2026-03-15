@@ -38,7 +38,6 @@ This project addresses a real frustration:
 
 ## 🖼️ Screenshots
 
-*(Drop your screenshots here)*
 
 | Input Form | Output Prediction |
 |------------|-------------------|
